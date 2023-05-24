@@ -1,0 +1,49 @@
+.list{
+    
+    padding-left: 300px;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 30px;
+}
+.drop{
+    font-weight: bold;
+    font-size: 20px;
+    transition: .5s;
+}
+.div1{
+    width: 95%;
+}
+.list1 a{
+    font-weight: bold;
+    font-size: 20px;
+    transition: .5s;
+}
+.drop:hover{
+    font-size: 21.5px;
+}
+.list1 a:hover{
+    font-size: 21.5px;
+}
+
+
+.buttons{
+    gap: 11px;
+}
+
+.button{
+    border-radius: 30px;
+    background-color: rgb(116, 199, 246);
+    border: 1px solid black;
+    padding: 4px 20px;
+}
+
+.button:hover{
+    background-color: rgb(87, 87, 213);
+    color: white;
+}
+
+.nav{
+    background-color:rgb(99, 153, 229);
+    height: 80px;
+}

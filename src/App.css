@@ -1,6 +1,21 @@
 .App {
   text-align: center;
 }
+.light-theme{
+  --bg-clr: #fff;
+}
+.dark-theme{
+  background-color: black;
+  --bg-clr: #111b20;
+  --head-clr:#fff
+  
+}
+
+.appcls{
+  background-color: var(--bg-clr);
+  color: var(--head-clr);
+}
+
 
 .App-logo {
   height: 40vmin;
